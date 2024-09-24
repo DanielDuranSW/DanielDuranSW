@@ -14,6 +14,9 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=danielduransw&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   </p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielDuranSW&theme=dark&hide_langs_below=1" width="50%" alt="Daniel's Top Languages">
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
